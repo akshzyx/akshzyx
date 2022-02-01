@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @akshzyx
+- 👋 Hi, I’m Akshit
 
 ----
