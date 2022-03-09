@@ -6,7 +6,9 @@ I’m passionate about developing products that make people's lives easier. Thes
 
 I also have some experience with video editing and 3D modeling.
 
-<h2>Misc</h2>
+
+‎
+
 
 <!--   GitHub Readme Stats -->
 <!-- ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshzyx&count_private=true&show_icons=true&theme=dark) -->
