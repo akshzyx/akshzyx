@@ -18,3 +18,6 @@ I also have some experience with video editing and 3D modeling.
 
 
 [<p href="https://github.com/anuraghazra/github-readme-stats" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshzyx&layout=compact&theme=dark" /></p>](https://github.com/akshzyx)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
