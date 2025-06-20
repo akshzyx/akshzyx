@@ -2,7 +2,7 @@
 
 I'm a Fullstack Software Developer.
 
-- 👨‍💻 I do **Typescript, React & stuff...**
+- 👨‍💻 I do **Go, React & stuff...**
 
 <!--   GitHub Readme Stats -->
 
